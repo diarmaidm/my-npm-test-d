@@ -1,0 +1,19 @@
+{
+  "name": "my-npm-test-d",
+  "version": "0.0.1",
+  "description": "My first npm test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diarmaidm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diarmaidm/my-npm-test-d.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diarmaidm/my-npm-test-d/issues"
+  },
+  "homepage": "https://github.com/diarmaidm/my-npm-test-d#readme"
+}
